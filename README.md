@@ -5,9 +5,9 @@ nerv-scheme
         
 A minimal dark theme for Sublime Text 3.
 
-![Sublime html](https://drive.google.com/open?id=0B9L6FxYAfQZvOUVwaUYzTDl4UTQ&authuser=0)
-![Sublime javascript](https://lh5.googleusercontent.com/-99jSimayMFA/U3gnPvCtZkI/AAAAAAAAAUM/GoSWlzlX7ZY/w1063-h662-no/sublime-javascript.JPG)
-![Sublime java](https://lh3.googleusercontent.com/-1Q5P7m9xepI/U3gnOYNbIyI/AAAAAAAAAUE/XTUcg3699Qs/w1062-h662-no/sublime-java.JPG)
+![Sublime html](https://lh6.googleusercontent.com/-L_QqymENNL8/VT0_tvfleyI/AAAAAAAAAks/kSA2xfcf9VA/w1011-h577-no/html.JPG)
+![Sublime javascript](https://lh3.googleusercontent.com/-qaOic24lPsI/VT0_uR-D6pI/AAAAAAAAAk8/OnZE8nbd8Vc/w1032-h577-no/js.JPG)
+![Sublime css](https://lh6.googleusercontent.com/-FsUo8alVKRg/VT0_uCqNSVI/AAAAAAAAAlQ/HOm_g9XHX0I/w1011-h577-no/css.JPG)
 
 Installation
 ------------------------------------------------------------------------

@@ -25,6 +25,6 @@ Credit
 
 This theme is based on [cyanide-theme](https://github.com/lefoy/cyanide-theme)
 
-You like this theme? I'd be glad to hear! Contact me on [Facebook](https://www.facebook.com/evenhold).
+You like this theme? I'd be glad to hear! Contact me on [Facebook](https://www.facebook.com/profile.php?id=100004595346340).
 
 If you want a custom color for this theme, you can also contact me and I'll be happy to make one for you!
